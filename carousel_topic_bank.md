@@ -2,8 +2,7 @@
 
 ## Priority topics
 
-1. Why zero-cost EMI is not always a free decision
-2. Why people who pay their credit-card bill on time still get into money trouble
+1. Why people who pay their credit-card bill on time still get into money trouble
 3. The ₹100 digital-gold button: convenient is not the same as protected
 4. Why salary hikes still leave people broke
 5. The business behind 10-minute delivery
@@ -19,4 +18,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why zero-cost EMI is not always a free decision — drafted 2026-07-29 (`drafts/2026-07-29_no-cost-emi-hidden-cost_carousel.md`), PNG carousel produced, not yet published to Instagram.
