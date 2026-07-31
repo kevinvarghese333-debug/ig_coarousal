@@ -19,4 +19,10 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-07-31: RBI's move to weekly credit bureau reporting (effective July 2026) and why a late payment now reaches your credit file faster. See drafts/2026-07-31_rbi-weekly-credit-reporting_carousel.md.
+
+## Additional topic ideas surfaced during research (not yet drafted)
+
+- RBI's removal of prepayment and foreclosure charges on floating-rate retail loans, effective January 1, 2026, and what it actually changes for borrowers.
+- The GST treatment of "no cost EMI" and why the discount is not the same as the interest disappearing.
+- RBI's transparency requirement for credit-card EMI conversions (principal, interest and discount must be shown clearly on the statement).
