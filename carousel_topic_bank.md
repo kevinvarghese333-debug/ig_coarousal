@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-08-03: Why people who pay their credit-card bill on time still get into money trouble, narrowed to the minimum-due trap (loss of the interest-free period). Draft: `drafts/2026-08-03_credit-card-minimum-due-trap_carousel.md`. Status: PNG carousel produced, not published.
