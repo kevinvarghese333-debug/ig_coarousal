@@ -3,7 +3,6 @@
 ## Priority topics
 
 1. Why zero-cost EMI is not always a free decision
-2. Why people who pay their credit-card bill on time still get into money trouble
 3. The ₹100 digital-gold button: convenient is not the same as protected
 4. Why salary hikes still leave people broke
 5. The business behind 10-minute delivery
@@ -19,4 +18,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-08-05: Why people who pay their credit-card bill on time still get into money trouble, angle used: converting a credit card purchase to EMI quietly reintroduces interest, fees and GST. Draft: `drafts/2026-08-05_credit-card-emi-trap_carousel.md`. A materially different angle on this same general topic (e.g. minimum-due psychology, cash-advance interest, or credit-limit-driven overspending) may be used again after 30 days.
