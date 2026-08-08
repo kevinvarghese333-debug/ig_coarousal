@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-08-08: "Why people who pay their credit-card bill on time can still get into money trouble" -> produced as "Your Credit Score Is Fine. Your Money Is Not." (the minimum-due trap). See drafts/2026-08-08_credit-card-minimum-due-trap_carousel.md.
