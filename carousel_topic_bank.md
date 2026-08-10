@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why people who pay their credit-card bill on time still get into money trouble — drafted 2026-08-10 as "On Time Is Not the Same as Paid Off" (minimum-due trap angle). See drafts/2026-08-10_credit-card-minimum-due-trap_carousel.md.
