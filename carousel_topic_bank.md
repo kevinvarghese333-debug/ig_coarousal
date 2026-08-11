@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. How loan apps make small loans feel harmless — drafted 2026-08-11. PNG carousel produced, not yet published to Instagram. See `output/2026-08-11_loan-apps-small-loans-feel-harmless/` and `published_log.csv`.
