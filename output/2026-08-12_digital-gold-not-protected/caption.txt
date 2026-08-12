@@ -1,0 +1,5 @@
+The ₹100 "buy digital gold" button sits right inside the UPI app you use for rent, groceries and paying friends back. It looks exactly as safe and regulated as everything else in that app. It isn't. SEBI said in November 2025 that digital gold offerings on platforms like these are not covered by SEBI or RBI, and can carry real counterparty and operational risk. That means no mandated disclosure rules, no statutory grievance redressal, and none of the capital safeguards that apply to a mutual fund, a stock or a gold ETF. The gold itself is usually held by a private vault operator who says it is insured and audited, but there is no law requiring anyone to verify that claim.
+
+None of this means digital gold is a scam or that you should panic-sell what you already hold. It means the ₹100 tap deserves the same basic questions you'd ask before any other investment: who holds this, what protects it, and what happens if something goes wrong.
+
+Do you know who actually holds your digital gold right now?
