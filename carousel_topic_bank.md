@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why zero-cost EMI is not always a free decision — drafted 2026-08-16, angle: "'No Cost EMI' Was Never Actually Free" (subvention mechanism + RBI 2013 'camouflaged interest' finding) — drafts/2026-08-16_no-cost-emi-real-cost_carousel.md
