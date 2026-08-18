@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-08-18: "The Credit Score Timing Trap" (sharpened angle on priority topic #2: why on-time payers still get into money trouble). Central idea: banks report your balance to the credit bureau on your statement date, not your payment date, and RBI's move to more frequent bureau reporting makes this show up faster. Draft: drafts/2026-08-18_credit-score-timing-trap_carousel.md
