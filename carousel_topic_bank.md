@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-08-20: Why people who pay their credit-card bill on time can still get into money trouble (angle: the Minimum Amount Due trap and the lost interest-free period) — drafts/2026-08-20_credit-card-minimum-due-trap_carousel.md

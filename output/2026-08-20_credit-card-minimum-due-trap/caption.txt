@@ -1,0 +1,9 @@
+Most people track credit card health with one signal: did I pay on time. That signal is incomplete.
+
+Every statement carries two numbers, the Minimum Amount Due and the Total Amount Due. Clearing only the minimum keeps your account marked current with the bank and avoids a late fee. But once you miss the full amount, you can lose the interest-free period on that bill, and interest may be calculated from the date of each purchase rather than from the due date. The unpaid balance keeps collecting interest quietly while your record looks clean.
+
+This isn't about panic. It's about knowing which number actually stops the interest. Total Amount Due does. Minimum Amount Due does not.
+
+If your statement always shows a Minimum Due box, that box exists to make a large balance feel manageable in the short term. It isn't there to protect you from interest.
+
+Have you ever checked which amount you were actually clearing each month, the minimum or the total?
