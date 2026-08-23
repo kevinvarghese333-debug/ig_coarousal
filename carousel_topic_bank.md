@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-08-23: Loan apps make borrowing effortless on purpose ("Borrowing got easier. The cost didn't get smaller.") — related to bank item 8 ("How loan apps make small loans feel harmless"), but this angle anchors on the RBI Key Facts Statement / APR disclosure and the cooling-off window rather than general fintech criticism. See `drafts/2026-08-23_loan-apps-engineered-ease_carousel.md`.
