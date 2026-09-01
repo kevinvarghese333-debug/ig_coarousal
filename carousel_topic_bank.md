@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. 2026-09-01: The minimum due trap (narrowed angle on priority topic #2, "why people who pay their credit-card bill on time still get into money trouble"). Central idea: paying the minimum due keeps a card out of default but switches off the interest-free period on new spending. Draft: `drafts/2026-09-01_credit-card-minimum-due-trap_carousel.md`.
