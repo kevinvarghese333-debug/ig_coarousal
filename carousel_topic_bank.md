@@ -19,4 +19,7 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-09-03: Why people who pay their credit-card bill on time still get
+  into money trouble (angle used: paying only the Minimum Amount Due
+  loses the interest-free period, per RBI rules) — see
+  drafts/2026-09-03_credit-card-minimum-due-trap_carousel.md
