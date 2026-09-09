@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why zero-cost EMI is not always a free decision — drafted 2026-09-09. See `drafts/2026-09-09_zero-cost-emi-hidden-cost_carousel.md`. Do not repeat this angle before 2026-10-09 unless materially different.
