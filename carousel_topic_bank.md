@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why zero-cost EMI is not always a free decision — drafted 2026-09-13, angle: "The interest never disappeared. It moved." (`drafts/2026-09-13_no-cost-emi-hidden-interest_carousel.md`)
