@@ -1,0 +1,9 @@
+Ten seconds to open the app. Ninety seconds to get approved. That speed is not a bug, and it is not really about you needing the money urgently. It is the product.
+
+Most short-tenor loan apps are built the same way: a small first loan that feels harmless, a limit that rises automatically once you repay on time, and an approval process with no human in the loop to make you pause. None of that is illegal. It is just designed to remove the moment where you would normally think twice.
+
+RBI's own response tells you the design worked a little too well. Regulated digital lenders now have to hand you a Key Fact Statement with the real APR, not just the EMI, and give you a short window, one to three days depending on the loan, to walk away by repaying only what you borrowed plus interest for those days. No penalty.
+
+That window exists because someone decided borrowers needed it legislated, not assumed.
+
+Have you ever checked the APR on a loan app, or only the EMI?

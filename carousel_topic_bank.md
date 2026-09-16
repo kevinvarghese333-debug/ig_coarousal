@@ -9,7 +9,7 @@
 5. The business behind 10-minute delivery
 6. Why a company can report profit while cash is disappearing
 7. What a credit score does not tell a lender
-8. How loan apps make small loans feel harmless
+8. ~~How loan apps make small loans feel harmless~~ — drafted 2026-09-16
 9. Why cashback changes spending behaviour
 10. The real cost of buying a phone for a small monthly EMI
 
@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-09-16 — "How loan apps make small loans feel harmless" — drafted as "The Loan Isn't the Product. The Speed Is." — drafts/2026-09-16_why-loan-apps-feel-harmless_carousel.md
