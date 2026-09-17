@@ -1,0 +1,112 @@
+"""One-off slide-data builder for the 2026-09-17 no-cost-emi-hidden-cost carousel."""
+import json
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import render_carousel as rc
+
+SLIDES = [
+    {
+        "index": 1,
+        "layout": "cover",
+        "filename": "01_cover.png",
+        "headline": "No Cost EMI is not actually free.",
+        "subhead": "The cost just moves somewhere you don't see it.",
+    },
+    {
+        "index": 2,
+        "layout": "text",
+        "filename": "02_problem.png",
+        "eyebrow": "Recognition",
+        "headline": "You've seen this banner a hundred times.",
+        "headline_size": 68,
+        "body": "Zero percent interest. No Cost EMI. Convert in three taps. You don't check the price twice.",
+    },
+    {
+        "index": 3,
+        "layout": "text",
+        "filename": "03_setup.png",
+        "eyebrow": "The real question",
+        "headline": "If there's no interest, who is paying the bank?",
+        "headline_size": 62,
+        "body": "A bank or NBFC does not lend money for nothing. Someone always covers that cost.",
+    },
+    {
+        "index": 4,
+        "layout": "text",
+        "filename": "04_mechanism.png",
+        "eyebrow": "The mechanism",
+        "headline": "The ‘zero’ hides in one of two places.",
+        "headline_size": 62,
+        "body": "Either the cash discount you'd have earned is quietly removed. Or the interest is added to the price before the EMI is calculated. Either way, the number moves. The cost does not disappear.",
+        "source_note": "RBI, September 2013: banks told the cost of a ‘zero percent’ scheme cannot be hidden as a fee.",
+    },
+    {
+        "index": 5,
+        "layout": "text",
+        "filename": "05_example.png",
+        "eyebrow": "In practice",
+        "headline": "Here's the arithmetic behind the label.",
+        "headline_size": 58,
+        "body": "Imagine a product priced at ₹40,000, with a ₹2,000 discount for paying cash upfront. Choose No Cost EMI instead, and that discount is usually the part that quietly disappears.",
+        "callout": "Same total price. No visible interest line. One quiet subtraction: your discount.",
+        "motif_ratio": 0.45,
+    },
+    {
+        "index": 6,
+        "layout": "text",
+        "filename": "06_reveal.png",
+        "eyebrow": "The part that still costs you",
+        "headline": "The ‘no cost’ label rarely covers the processing fee.",
+        "headline_size": 54,
+        "body": "Banks and platforms typically charge a separate fee to convert a purchase into EMI. That fee comes with 18% GST, regardless of the ‘no cost’ branding.",
+        "accent": "red",
+        "motif_ratio": 0.68,
+    },
+    {
+        "index": 7,
+        "layout": "text",
+        "filename": "07_insight.png",
+        "eyebrow": "The part people miss",
+        "headline": "This is exactly why APR disclosure now exists.",
+        "headline_size": 58,
+        "body": "Since October 2024, RBI requires lenders to show the full annualised cost of a loan, the APR, in a standard Key Facts Statement. Nothing extra beyond it.",
+        "source_note": "RBI circular RBI/2024-25/18, 15 April 2024, effective for loans sanctioned from 1 October 2024.",
+        "accent": "green",
+    },
+    {
+        "index": 8,
+        "layout": "text",
+        "filename": "08_takeaway.png",
+        "eyebrow": "Before you tap convert",
+        "headline": "Three checks before No Cost EMI.",
+        "headline_size": 66,
+        "body": "1. Compare the cash price on the same page.\n2. Ask if a discount is being forfeited.\n3. Look for the APR or Key Facts Statement, not just the EMI number.",
+    },
+    {
+        "index": 9,
+        "layout": "cta",
+        "filename": "09_cta.png",
+        "headline": "Convenient is not the same as free.",
+        "body": "No Cost EMI can still be the right choice. Just choose it knowing where the cost went.",
+        "cta_line": "Save this before your next big purchase.",
+    },
+]
+
+
+def main():
+    out_dir = sys.argv[1] if len(sys.argv) > 1 else "output/2026-09-17_no-cost-emi-hidden-cost"
+    os.makedirs(out_dir, exist_ok=True)
+    data_path = os.path.join(out_dir, "slide_data.json")
+    with open(data_path, "w") as f:
+        json.dump(SLIDES, f, indent=2, ensure_ascii=False)
+
+    paths = rc.render_carousel(SLIDES, out_dir)
+    rc.build_contact_sheet(paths, os.path.join(out_dir, "carousel_preview_contact_sheet.png"))
+    rc.build_zip(paths, os.path.join(out_dir, "carousel_files.zip"))
+    print(f"Rendered {len(paths)} slides to {out_dir}")
+
+
+if __name__ == "__main__":
+    main()

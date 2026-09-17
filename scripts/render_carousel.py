@@ -53,19 +53,22 @@ def get_font(key, size):
 
 
 def wrap_text(draw, text, font, max_width):
-    words = text.split()
     lines = []
-    current = ""
-    for word in words:
-        trial = (current + " " + word).strip()
-        bbox = draw.textbbox((0, 0), trial, font=font)
-        if bbox[2] - bbox[0] <= max_width or not current:
-            current = trial
-        else:
-            lines.append(current)
-            current = word
-    if current:
-        lines.append(current)
+    for paragraph in text.split("\n"):
+        words = paragraph.split()
+        current = ""
+        para_lines = []
+        for word in words:
+            trial = (current + " " + word).strip()
+            bbox = draw.textbbox((0, 0), trial, font=font)
+            if bbox[2] - bbox[0] <= max_width or not current:
+                current = trial
+            else:
+                para_lines.append(current)
+                current = word
+        if current:
+            para_lines.append(current)
+        lines.extend(para_lines if para_lines else [""])
     return lines
 
 
