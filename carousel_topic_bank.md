@@ -19,4 +19,9 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why people who pay their credit-card bill on time still get into money
+   trouble — drafted 2026-09-19, angle: paying only the minimum due, on
+   time, ends the interest-free period for the whole cycle, not just the
+   unpaid balance. See `drafts/2026-09-19_credit-card-minimum-due-trap_carousel.md`.
+   Do not repeat this exact angle before 2026-10-19 unless materially
+   different.
