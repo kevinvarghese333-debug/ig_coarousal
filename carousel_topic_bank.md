@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+1. Why zero-cost EMI is not always a free decision -- drafted 2026-09-24. See drafts/2026-09-24_no-cost-emi-hidden-cost_carousel.md. Angle used: the interest is not removed, it is relocated into a missing cash discount or a repriced sticker price, with RBI's "zero percent interest is not real" position as the credibility anchor. Do not repeat this exact angle before 2026-10-24 unless materially different.
