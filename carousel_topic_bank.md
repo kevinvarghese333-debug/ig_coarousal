@@ -9,9 +9,8 @@
 5. The business behind 10-minute delivery
 6. Why a company can report profit while cash is disappearing
 7. What a credit score does not tell a lender
-8. How loan apps make small loans feel harmless
-9. Why cashback changes spending behaviour
-10. The real cost of buying a phone for a small monthly EMI
+8. Why cashback changes spending behaviour
+9. The real cost of buying a phone for a small monthly EMI
 
 ## Rule
 
@@ -19,4 +18,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-09-26: How loan apps make small loans feel harmless (angle used: the RBI Key Fact Statement and cooling-off window) — drafts/2026-09-26_loan-app-cooling-off-window_carousel.md
