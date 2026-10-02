@@ -19,4 +19,4 @@ Do not repeat a topic published in the prior 30 days unless the angle is materia
 
 ## Published
 
-None yet.
+- 2026-10-02: Zero-cost EMI hidden price (drafted, not published)
