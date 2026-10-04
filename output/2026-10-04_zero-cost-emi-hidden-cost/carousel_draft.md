@@ -27,6 +27,113 @@ Production complete. Review before Instagram publishing.
 
 ## Full Carousel
 
+### Slide 1
+
+- On-slide copy: Someone pays for “zero-cost” EMI. Check if it is you.
+- Word count: 10
+- Layout: Big claim, left aligned, gold second line
+- Visual asset: None, type only
+- Visual hierarchy: Headline, then gold line, then swipe cue
+- White-space instruction: Top and bottom thirds mostly empty
+- Continuity cue from prior slide: Opens the loop
+- Swipe trigger: Who pays?
+- Animation instruction: Static.
+
+### Slide 2
+
+- On-slide copy: No-cost EMI. A ₹30,000 phone. 6 EMIs of ₹5,000. Total paid: ₹30,000. Nothing added. Feels free.
+- Word count: 16
+- Layout: Stacked lines with dashed receipt divider
+- Visual asset: Receipt divider
+- Visual hierarchy: Phone price, then total, then gold 'Feels free'
+- White-space instruction: Right side and lower third empty
+- Continuity cue from prior slide: Same tape motif and headline alignment
+- Swipe trigger: Feels free, but is it?
+- Animation instruction: Static.
+
+### Slide 3
+
+- On-slide copy: But an EMI is a loan. Someone hands over the money today and waits six months for it. Who pays for that wait?
+- Word count: 23
+- Layout: Headline, slate body, gold question
+- Visual asset: None
+- Visual hierarchy: Headline, then question
+- White-space instruction: Generous gap before question
+- Continuity cue from prior slide: Answers 'is it free' with 'it is a loan'
+- Swipe trigger: The question is left open
+- Animation instruction: Static.
+
+### Slide 4
+
+- On-slide copy: The cost does not vanish. It moves. 1 A cash discount you lose. 2 A processing fee. RBI has said zero-percent interest does not really exist in such schemes.
+- Word count: 29
+- Layout: Headline plus two numbered cards
+- Visual asset: Two cards, receipt tape
+- Visual hierarchy: Headline, two cards, small source note
+- White-space instruction: Space around cards
+- Continuity cue from prior slide: Pays off 'who pays'
+- Swipe trigger: Show me with numbers
+- Animation instruction: Static.
+
+### Slide 5
+
+- On-slide copy: Same phone, two prices. Pay cash ₹28,500. Pay in 6 EMIs ₹30,000. Both said no-cost. Only one has a bigger bill.
+- Word count: 21
+- Layout: Two stacked price cards
+- Visual asset: Two cards; illustrative label
+- Visual hierarchy: Two big numbers
+- White-space instruction: Bottom third empty
+- Continuity cue from prior slide: Makes the mechanism concrete
+- Swipe trigger: What is the gap?
+- Animation instruction: Static.
+
+### Slide 6
+
+- On-slide copy: The gap: ₹1,500 extra on about ₹28,500 of money you used for six months. That works out to roughly 18% a year.
+- Word count: 22
+- Layout: Big red number reveal
+- Visual asset: Single oversized figure
+- Visual hierarchy: ₹1,500, then rate line
+- White-space instruction: Large empty space right of number
+- Continuity cue from prior slide: Escalates from two prices to a rate
+- Swipe trigger: And the real cost?
+- Animation instruction: Static.
+
+### Slide 7
+
+- On-slide copy: The bigger cost is not the fee. It is restraint. ₹5,000 a month feels small. So the phone feels affordable, even when ₹30,000 never was.
+- Word count: 25
+- Layout: Minimal text slide, pattern break
+- Visual asset: None
+- Visual hierarchy: Headline, gold word, body
+- White-space instruction: Heavy white space
+- Continuity cue from prior slide: Moves from money to behaviour
+- Swipe trigger: What do I do about it?
+- Animation instruction: Static.
+
+### Slide 8
+
+- On-slide copy: Before you tap EMI: Find the cash price. Add up every rupee you will pay. Compare the two numbers. If you pay more than the cash price, you are borrowing. Price it like a loan.
+- Word count: 35
+- Layout: Numbered checklist
+- Visual asset: Three circle markers
+- Visual hierarchy: Three steps then rule
+- White-space instruction: Space below rule
+- Continuity cue from prior slide: Turns insight into a rule
+- Swipe trigger: Close
+- Animation instruction: Static.
+
+### Slide 9
+
+- On-slide copy: “No-cost” is a label. Total paid is the fact. Comment the biggest gap you have seen between cash price and EMI total. Save this for your next sale. Follow @whenkevintalks for money decisions without the noise.
+- Word count: 36
+- Layout: Headline, divider, CTA
+- Visual asset: Receipt tape completes
+- Visual hierarchy: Headline, comment CTA, save and follow
+- White-space instruction: Lower third empty
+- Continuity cue from prior slide: Tape reaches the end
+- Swipe trigger: None, final slide
+- Animation instruction: Static.
 
 ## Caption
 
